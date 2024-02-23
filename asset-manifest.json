@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Marriage-Certificate/static/css/main.df33bd66.css",
+    "main.js": "/Marriage-Certificate/static/js/main.9eeb707d.js",
+    "static/js/453.db09ca30.chunk.js": "/Marriage-Certificate/static/js/453.db09ca30.chunk.js",
+    "index.html": "/Marriage-Certificate/index.html",
+    "main.df33bd66.css.map": "/Marriage-Certificate/static/css/main.df33bd66.css.map",
+    "main.9eeb707d.js.map": "/Marriage-Certificate/static/js/main.9eeb707d.js.map",
+    "453.db09ca30.chunk.js.map": "/Marriage-Certificate/static/js/453.db09ca30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df33bd66.css",
+    "static/js/main.9eeb707d.js"
+  ]
+}
